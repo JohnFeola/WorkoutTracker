@@ -1,0 +1,31 @@
+{
+  "name": "cosc-484-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "dependencies": "^0.0.1",
+    "flowbite": "^1.5.4",
+    "flowbite-react": "^0.3.6",
+    "mongo": "^0.1.0",
+    "mongodb": "^4.12.1",
+    "next": "^12.3.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "tailwindcss-brand-colors": "^0.3.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "eslint": "8.25.0",
+    "eslint-config-next": "12.3.1",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.2"
+  }
+}
